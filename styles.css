@@ -33,13 +33,13 @@ html, body{
     margin-right: 5%;
     font-size: 50px;
 }
-.fa-facebook{
+.fa-github{
     padding-left: 35%;
 }
 .setFooter{
     padding-top: 5%;
 }
-}
+
 .container{
     background-color: lightgray;
     height: 100px;
