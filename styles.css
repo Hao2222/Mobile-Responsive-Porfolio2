@@ -20,21 +20,27 @@ html, body{
 }
 .padding img{
    width: 100%;
+
+  
 }
 .padding h1{
     text-align: center;
 }
 .padding h2{
     padding-top: 5%;
-
 }
+
 
 .media a{
     margin-right: 5%;
-    font-size: 50px;
+    font-size: 100%;
 }
 .fa-github{
     padding-left: 35%;
+    font-size: 100px;
+}
+.fa{
+    font-size:50px;
 }
 .setFooter{
     padding-top: 5%;
